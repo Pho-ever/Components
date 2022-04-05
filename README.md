@@ -4,13 +4,15 @@ This repository contains ReactJS user-interface components i have been able to c
 
 ## Table of contents
 
+
 - [Overview](#overview)
 - [My process](#my-process)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Acknowledgments](#acknowledgments)
 
-## Overview 
+# Modal Pop-up
+   ## Overview 
   This Modal component i created was inspired from a ReactJS challenge i joined in couple of weeks back 
 
 ## My Process 
